@@ -1,5 +1,3 @@
-// package edu.kit.informatik;
-
 /**
  * This class contains 3 different methods to find the nearest neighbor path according to Minkowski-Distance
  * and to manipulate the result.

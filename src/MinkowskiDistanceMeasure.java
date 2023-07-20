@@ -1,5 +1,3 @@
-// package edu.kit.informatik;
-
 /**
  * This class contains 3 different method to calculate Minkowski-Distance between to vectors.
  *

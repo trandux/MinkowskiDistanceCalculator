@@ -1,5 +1,3 @@
-// package edu.kit.informatik;
-
 /**
  * This class serves as a entry point for the program and contains main method.
  *
